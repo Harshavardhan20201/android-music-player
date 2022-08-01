@@ -1,3 +1,6 @@
+#NOTE
+please extract the Android-music-player to get access into main folders and paste eveything inside Android music player folder and all gradles you have downloaded from github to single file and copy the single file into c drive and open it with Android studio.
+please contact harsha200005@gmail.com,kousar1119@gmail.com,leonharshal007@gmail.com if error persists
 # MusicPlayer
 This is the music player with the interactive UI for the easy access for user
 This application can be used to play mp3 songs. The key features in this are as follows,
